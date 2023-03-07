@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weather-app-rocket/static/css/main.d0753a41.css",
+    "main.js": "/weather-app-rocket/static/js/main.ea33a98e.js",
+    "index.html": "/weather-app-rocket/index.html",
+    "main.d0753a41.css.map": "/weather-app-rocket/static/css/main.d0753a41.css.map",
+    "main.ea33a98e.js.map": "/weather-app-rocket/static/js/main.ea33a98e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0753a41.css",
+    "static/js/main.ea33a98e.js"
+  ]
+}
